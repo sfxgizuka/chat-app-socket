@@ -1,0 +1,19 @@
+{
+  "name": "messanger-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfxgizuka/chat-app-socket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfxgizuka/chat-app-socket/issues"
+  },
+  "homepage": "https://github.com/sfxgizuka/chat-app-socket#readme"
+}
